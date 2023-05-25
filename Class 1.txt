@@ -1,0 +1,20 @@
+Class 1 
+Data Analytics/Business Intelligence
+Reporting the past (or) understudying the past.  It is power BI.
+MS SQL severe 
+DWH (Data warehousing) 
+Power BI and MSBI
+Data science /Data Mining/AI/ML :
+It is predicating the future.
+SQL
+Python
+ML: Machine Learning.
+
+DL: Deep Learning  
+
+AI: Artificial Intelligence 
+
+NN : Neural Net work 
+
+NLP: Natural Language Processing. 
+
